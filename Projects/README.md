@@ -1,3 +1,3 @@
 # Project List
-Day 28 - Pomodoro Timer\n
+Day 28 - Pomodoro Timer  
 Day 29 - Password Manager
